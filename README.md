@@ -1,7 +1,8 @@
-print("hello world!") 
-hi there! im @imwillstill, a aspiring lua programmer. i dont have anything big yet, so dont expect anything. 
+print("hello world!")
+Console.WriteLine("hello world");
+hi there! im @imwillstill, a aspiring lua (and now c#) programmer. i dont have anything big yet, so dont expect anything. 
 
-(p.s) i can also do roblox studio
+(p.s) i can also do roblox studio (+ unity)
 
 <!---
 ImWillStill/ImWillStill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
